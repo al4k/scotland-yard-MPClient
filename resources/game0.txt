@@ -1,0 +1,7 @@
+session_id:0
+session_name: online_game
+files_id:1
+player:0,X,127,24,21,11,2,5
+player:1,D,91,11,8,4,0,0
+player:2,D,174,11,8,4,0,0
+player:3,D,26,11,8,4,0,0
